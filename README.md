@@ -1,2 +1,2 @@
 # PrepCourse
-Este es un repositorio de prueba del Prep course de henry
+Este proyyecto lo hago para aprender a clonar cositas 
